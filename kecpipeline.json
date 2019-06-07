@@ -36,50 +36,19 @@
     {"name": "GAS and Power", "value": 23000},
     {"name": "Nedgia", "value": 6000},
     {"name": "Fundación Naturgy", "value": 5000},
-    {
-     "name": "interpolate",
-     "children": [
-      {"name": "ArrayInterpolator", "value": 1983},
-      {"name": "ColorInterpolator", "value": 2047},
-      {"name": "DateInterpolator", "value": 1375},
-      {"name": "Interpolator", "value": 8746},
-      {"name": "MatrixInterpolator", "value": 2202},
-      {"name": "NumberInterpolator", "value": 1382},
-      {"name": "ObjectInterpolator", "value": 1629},
-      {"name": "PointInterpolator", "value": 1675},
-      {"name": "RectangleInterpolator", "value": 2042}
-     ]
-    },
-    {"name": "ISchedulable", "value": 1041},
-    {"name": "Parallel", "value": 5176},
-    {"name": "Pause", "value": 449},
-    {"name": "Scheduler", "value": 5593},
-    {"name": "Sequence", "value": 5534},
-    {"name": "Transition", "value": 9201},
-    {"name": "Transitioner", "value": 19975},
-    {"name": "TransitionEvent", "value": 1116},
-    {"name": "Tween", "value": 6006}
-   ]
+    ]
   },
   {
-   "name": "data",
+   "name": "Digital Intelligence",
    "children": [
     {
-     "name": "converters",
-     "children": [
-      {"name": "Converters", "value": 721},
-      {"name": "DelimitedTextConverter", "value": 4294},
-      {"name": "GraphMLConverter", "value": 9800},
-      {"name": "IDataConverter", "value": 1314},
-      {"name": "JSONConverter", "value": 2220}
-     ]
+ 
+      {"name": "LaLiga", "value": 240451},
+      {"name": "Credit Andorra", "value": 90000},
+     
+    
     },
-    {"name": "DataField", "value": 1759},
-    {"name": "DataSchema", "value": 2165},
-    {"name": "DataSet", "value": 586},
-    {"name": "DataSource", "value": 3331},
-    {"name": "DataTable", "value": 772},
-    {"name": "DataUtil", "value": 3322}
+   
    ]
   },
   {
