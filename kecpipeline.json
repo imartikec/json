@@ -4,24 +4,12 @@
   {
    "name": "DBOIs",
    "children": [
-    {
-     "name": "UX/UI",
-     "children": [
+    
       {"name": "Al Rajhi Bank", "value": 773800},
       {"name": "Aldar", "value": 420000},
       {"name": "First Abu Dhabi Bank", "value": 270000},
-      {"name": "Smart", "value": 70000}
-     ]
-    },
-    {
-     "name": "Digital Transformation",
-     "children": [
+      {"name": "Smart", "value": 70000},
       {"name": "Al Rajhi Takaful", "value": 260000}
-     ]
-    },
-    {
-     "name": "Development",
-     "children": [
       {"name": "Deutsche Bank", "value": 6300},
       {"name": "Suez", "value": 5300}
      ]
