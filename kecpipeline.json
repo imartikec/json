@@ -9,7 +9,7 @@
       {"name": "Aldar", "value": 420000},
       {"name": "First Abu Dhabi Bank", "value": 270000},
       {"name": "Smart", "value": 70000},
-      {"name": "Al Rajhi Takaful", "value": 260000}
+      {"name": "Al Rajhi Takaful", "value": 260000},
       {"name": "Deutsche Bank", "value": 6300},
       {"name": "Suez", "value": 5300}
      ]
@@ -21,20 +21,14 @@
     {"name": "UFD", "value": 24000},
     {"name": "GAS and Power", "value": 23000},
     {"name": "Nedgia", "value": 6000},
-    {"name": "Fundación Naturgy", "value": 5000},
+    {"name": "Fundación Naturgy", "value": 5000}
     ]
   },
   {
    "name": "Digital Intelligence",
    "children": [
-    {
- 
       {"name": "LaLiga", "value": 240451},
-      {"name": "Credit Andorra", "value": 90000},
-     
-    
-    },
-   
+      {"name": "Credit Andorra", "value": 90000}
    ]
   },
   {
