@@ -29,10 +29,13 @@
    ]
   },
   {
-   "name": "animate",
+   "name": "ENERGY",
    "children": [
-    {"name": "Easing", "value": 17010},
-    {"name": "FunctionSequence", "value": 5842},
+    {"name": "Naturgy", "value": 25028},
+    {"name": "UFD", "value": 24000},
+    {"name": "GAS and Power", "value": 23000},
+    {"name": "Nedgia", "value": 6000},
+    {"name": "Fundación Naturgy", "value": 5000},
     {
      "name": "interpolate",
      "children": [
