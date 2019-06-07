@@ -13,6 +13,16 @@
       {"name": "Deutsche Bank", "value": 6300},
       {"name": "Suez", "value": 5300}
      ]
+   },
+   {
+    "name": "ENERGY",
+    "children": [
+      {"name": "Naturgy", "value": 25028},
+      {"name": "UFD", "value": 24000},
+      {"name": "GAS and Power", "value": 23000},
+      {"name": "Nedgia", "value": 6000},
+      {"name": "Fundación Naturgy", "value": 5000}
+    ]
   }
  ]
 }
