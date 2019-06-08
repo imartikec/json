@@ -24,16 +24,6 @@
       {"name": "Fundación Naturgy", "value": 5000}
     ]
    },
-   {
-    "name": "XP",
-    "children": [
-      {"name": "Riyad Bank", "value": 587789},
-      {"name": "HRDF", "value": 335000},
-      {"name": "Carlyle", "value": 34992},
-      {"name": "Planeta", "value": 24700},
-      {"name": "Moventis", "value": 9770},
-      {"name": "Applus+", "value": 4522}
-    ]
-   }
+   
  ]
 }
