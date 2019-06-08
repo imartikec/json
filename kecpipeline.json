@@ -26,15 +26,19 @@
      ]
   },
   {
-    "name": "XP",
+    "name": "eHealth",
     "children": [
      
-      {"name": "Riyad Bank", "value": 587789},
-      {"name": "HRDF", "value": 335000},
-      {"name": "Carlyle", "value": 34992},
-      {"name": "Planeta", "value": 24700},
-      {"name": "Moventis", "value": 9770},
-      {"name": "Applus+", "value": 4522}
+      {"name": "RTVE", "value": 249000},
+      {"name": "Novartis", "value": 174995},
+      {"name": "Bayer", "value": 115800},
+      {"name": "Esteve", "value": 72000},
+      {"name": "Ferrer", "value": 52989},
+      {"name": "AccionSoriais", "value": 24000},
+      {"name": "LanaSarrate", "value": 17500},
+      {"name": "InternacionalAdvancedSurgeryBCN", "value": 15000},
+      {"name": "VETGENOMICS", "value": 10000},
+      {"name": "Torrent", "value": 8000}
      ]
   },
   {
