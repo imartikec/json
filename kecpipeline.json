@@ -23,8 +23,8 @@
       {"name": "Nedgia", "value": 6000},
       {"name": "Fundación Naturgy", "value": 5000}
     ]
-  },
-  {
+   },
+   {
     "name": "XP",
     "children": [
       {"name": "Riyad Bank", "value": 587789},
@@ -34,6 +34,6 @@
       {"name": "Moventis", "value": 9770},
       {"name": "Applus+", "value": 4522}
     ]
-  }
+   }
  ]
 }
