@@ -54,14 +54,22 @@
      ]
   },
   {
-    "name": "XP",
+    "name": "DI",
     "children": [
-      {"name": "Riyad Bank", "value": 587789},
-      {"name": "HRDF", "value": 335000},
-      {"name": "Carlyle", "value": 34992},
-      {"name": "Planeta", "value": 24700},
-      {"name": "Moventis", "value": 9770},
-      {"name": "Applus+", "value": 4522}
+     
+      {"name": "LaLiga", "value": 240451},
+      {"name": "CreditAndorra", "value": 90000},
+     ]
+  },
+  {
+    "name": "Madrid",
+    "children": [
+      {"name": "Santander", "value": 141710},
+      {"name": "Caser Seguros", "value": 139000},
+      {"name": "BBVA", "value": 112847},
+      {"name": "Roche", "value": 4200},
+      {"name": "Deutsche", "value": 2400}
+   
      ]
   }
  ]
