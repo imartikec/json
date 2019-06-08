@@ -17,11 +17,36 @@
   {
    "name": "ENERGY",
    "children": [
+    
       {"name": "Naturgy", "value": 25028},
       {"name": "UFD", "value": 24000},
       {"name": "GAS and Power", "value": 23000},
       {"name": "Nedgia", "value": 6000},
       {"name": "Fundación Naturgy", "value": 5000}
+     ]
+  },
+  {
+    "name": "XP",
+    "children": [
+     
+      {"name": "Riyad Bank", "value": 587789},
+      {"name": "HRDF", "value": 335000},
+      {"name": "Carlyle", "value": 34992},
+      {"name": "Planeta", "value": 24700},
+      {"name": "Moventis", "value": 9770},
+      {"name": "Applus+", "value": 4522}
+     ]
+  },
+  {
+    "name": "XP",
+    "children": [
+     
+      {"name": "Riyad Bank", "value": 587789},
+      {"name": "HRDF", "value": 335000},
+      {"name": "Carlyle", "value": 34992},
+      {"name": "Planeta", "value": 24700},
+      {"name": "Moventis", "value": 9770},
+      {"name": "Applus+", "value": 4522}
      ]
   },
   {
